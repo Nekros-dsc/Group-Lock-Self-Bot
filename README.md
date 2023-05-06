@@ -1,5 +1,5 @@
 <h1 align="center">
- 🔥Group Lock Self Bot Self⚙
+ 🔥Group Lock Self Bot⚙
 </h1>
 
 ---
